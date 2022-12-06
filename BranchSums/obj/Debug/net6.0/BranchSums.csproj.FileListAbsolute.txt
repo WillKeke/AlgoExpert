@@ -1,0 +1,15 @@
+C:\Code\BranchSums\bin\Debug\net6.0\BranchSums.exe
+C:\Code\BranchSums\bin\Debug\net6.0\BranchSums.deps.json
+C:\Code\BranchSums\bin\Debug\net6.0\BranchSums.runtimeconfig.json
+C:\Code\BranchSums\bin\Debug\net6.0\BranchSums.dll
+C:\Code\BranchSums\bin\Debug\net6.0\ref\BranchSums.dll
+C:\Code\BranchSums\bin\Debug\net6.0\BranchSums.pdb
+C:\Code\BranchSums\obj\Debug\net6.0\BranchSums.csproj.AssemblyReference.cache
+C:\Code\BranchSums\obj\Debug\net6.0\BranchSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\BranchSums\obj\Debug\net6.0\BranchSums.AssemblyInfoInputs.cache
+C:\Code\BranchSums\obj\Debug\net6.0\BranchSums.AssemblyInfo.cs
+C:\Code\BranchSums\obj\Debug\net6.0\BranchSums.csproj.CoreCompileInputs.cache
+C:\Code\BranchSums\obj\Debug\net6.0\BranchSums.dll
+C:\Code\BranchSums\obj\Debug\net6.0\ref\BranchSums.dll
+C:\Code\BranchSums\obj\Debug\net6.0\BranchSums.pdb
+C:\Code\BranchSums\obj\Debug\net6.0\BranchSums.genruntimeconfig.cache
